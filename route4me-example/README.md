@@ -1,6 +1,8 @@
 # Sample Route4Me PHP Project
 
-The sample project demonstrates the download and usage of the Route4Me php SDK from **packagist.org**.
+The sample project demonstrates the download and usage of the Route4Me PHP SDK from **packagist.org**.
+
+> Make sure you have the development environment with installed PHP (version>=7.4) and composer.
 
 To create a PHP project using Route4me SDK, do following:
 
