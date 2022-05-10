@@ -1,6 +1,6 @@
 # route4me-php-projects
 
-In this project you can find the sample PHP projects using Route4Me PHP SDK.
+In this repository, you can find the sample PHP projects done using the Route4Me PHP SDK.
 
 ## Sample Route4Me PHP Project
 
