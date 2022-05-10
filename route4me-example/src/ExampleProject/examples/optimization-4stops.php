@@ -17,7 +17,7 @@ use Route4Me\OptimizationProblemParams;
 use Route4Me\OptimizationProblem;
 
 // Set the api key in the Route4me class
-Route4Me::setApiKey('5B05A8B6C4DB22C0CD6966F01D5FB4E0');
+Route4Me::setApiKey('11111111111111111111111111111111');
 
 $addresses = array();
 $addresses[] = Address::fromArray(array(
