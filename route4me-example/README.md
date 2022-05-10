@@ -42,12 +42,12 @@ To create a PHP project using Route4me SDK, do following:
 ```
 
 - Change the appropriate parameters to your own (author, email, project name).  
-- Run a CLI tool (cmd, powershell, shell) withi the folder and run the command:  
+- Run a CLI tool (cmd, powershell, shell) from within the folder and run the command:  
 ```
 composer install
 ```
 
-- Create the folders **src/ExampleProject/examples** in the core folder and create the PHP file optimization-4stops.php in the folder **examples**. FInally, write the code in it:
+- Create the folders **src/ExampleProject/examples** in the core folder and create the PHP file optimization-4stops.php in the folder **examples**. FiInally, write the code in it:
 ```
 <?php
 
